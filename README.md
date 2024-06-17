@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AbhiGurjar0
 - 👀 I’m interested in competitive programming 
 - 🌱 I’m currently learning backend developement
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://www.linkedin.com/feed/
+- 💞️ I’m currently working on some projects
 
 
 <!---
