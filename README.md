@@ -30,7 +30,7 @@
 
 ## 📬 Let's Connect!
 - 📧 Email: abhishekgurjar5700@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-gurjar-5700/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abhigurjar0/)
 - 🌐 Portfolio: Coming soon...
 
 
