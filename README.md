@@ -4,7 +4,7 @@
 
 - 🎓 I'm currently a final-year B.Tech student.
 - 👨‍💻 Passionate about solving real-world problems using tech.
-- 🔍 Actively learning **Backend Development** (Next.js, React.js , Springboot).
+- 🔍 Actively learning **Backend Development** (Next.js,Springboot).
 - 💡 Currently building a full-stack **social media app** using **MEN Stack**.
 - ⚙️ Exploring **Java Full Stack** for future MNC opportunities.
 
@@ -13,24 +13,22 @@
 
 ## 💻 Tech Stack
 
-- **Languages**: JavaScript, C++, Java
-- **Frontend**: HTML, CSS, Tailwind, EJS, React.js (learning)
-- **Backend**: Node.js, Express.js, MongoDB
+- **Languages**: JavaScript, C++, Java ,Python
+- **Core CS**: Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks
+- **Frontend**: HTML, CSS, Tailwind, EJS, React.js
+- **Backend**: Node.js, Express.js, MongoDB ,Next.js , Springboot(learning)
 - **Tools**: Git, GitHub, Postman, VS Code
-- **Currently Learning**: React.js, Java Spring Boot, Data Structures & Algorithms
+- **Currently Learning**:Java Spring Boot
 
 ---
-
-## 📈 Projects
-- 🛠️ **Full-Stack Projects**: Built 2 projects using the MEN stack (MongoDB, Express.js, Node.js)
-- 📱 **Social Media App**: In progress 
-- More coming soon...
-
+📈 Projects
+    🛠️ Full-Stack Projects: Built 3 complete projects using the MEN stack (MongoDB, Express.js, Node.js)
+    📱 Insta Automation (In Progress): Developing a full-featured Insta Automation software.
 ---
 
 ## 📬 Let's Connect!
 - 📧 Email: abhishekgurjar5700@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/abhigurjar0/)
-- 🌐 Portfolio: Coming soon...
+
 
 
