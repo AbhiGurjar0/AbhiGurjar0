@@ -5,7 +5,7 @@
 - 🎓 I'm currently a final-year B.Tech student.
 - 👨‍💻 Passionate about solving real-world problems using tech.
 - 🔍 Actively learning **Backend Development** (Next.js,Springboot).
-- 💡 Currently building a full-stack **social media app** using **MEN Stack**.
+- 💡 Currently building a full-stack Insta Automation Software using **MERN Stack**.
 - ⚙️ Exploring **Java Full Stack** for future MNC opportunities.
 
 
