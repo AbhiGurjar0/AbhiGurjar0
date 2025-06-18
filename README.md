@@ -21,10 +21,11 @@
 - **Currently Learning**:Java Spring Boot
 
 ---
-## Projects
+## 📈 Projects
 
-    - **Full-Stack Projects**: Built 3 complete projects using the MEN stack (MongoDB, Express.js, Node.js)
-    - **Insta Automation (In Progress)*: Developing a full-featured Insta Automation software.
+- **Full-Stack Projects**: Built 3 complete projects using the MEN stack (MongoDB, Express.js, Node.js)
+- **Insta Automation (In Progress)**: Developing a full-featured Insta Automation software.
+
 ---
 
 ## 📬 Let's Connect!
