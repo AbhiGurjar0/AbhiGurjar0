@@ -22,9 +22,14 @@
 ---
 ## 📈 Projects
 
-1.Jewellery E-commerce website ->   https://e-commerce-wk55.onrender.com/ 
-2.Food delivery Website ->          https://fooddie.onrender.com/
-3.Social Media Plateform ->         https://social-media-plateform-jd2n.onrender.com/
+1. **Jewellery E-commerce Website**  
+   🔗 [Live Site](https://e-commerce-wk55.onrender.com/)
+
+2. **Food Delivery Website**  
+   🔗 [Live Site](https://fooddie.onrender.com/)
+
+3. **Social Media Platform**  
+   🔗 [Live Site](https://social-media-plateform-jd2n.onrender.com/)
 
 ---
 
