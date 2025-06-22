@@ -5,7 +5,6 @@
 - 🎓 I'm currently a final-year B.Tech student.
 - 👨‍💻 Passionate about solving real-world problems using tech.
 - 🔍 Actively learning **Backend Development** (Next.js,Springboot).
-- 💡 Currently building a full-stack Insta Automation Software using **MERN Stack**.
 - ⚙️ Exploring **Java Full Stack** for future MNC opportunities.
 
 
@@ -23,8 +22,9 @@
 ---
 ## 📈 Projects
 
-- **Full-Stack Projects**: Built 3 complete projects using the MEN stack (MongoDB, Express.js, Node.js)
-- **Insta Automation (In Progress)**: Developing a full-featured Insta Automation software.
+1.Jewellery E-commerce website ->   https://e-commerce-wk55.onrender.com/ 
+2.Food delivery Website ->          https://fooddie.onrender.com/
+3.Social Media Plateform ->         https://social-media-plateform-jd2n.onrender.com/
 
 ---
 
