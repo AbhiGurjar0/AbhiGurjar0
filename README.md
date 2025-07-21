@@ -15,7 +15,7 @@
 - **Languages**: JavaScript, C++, Java ,Python
 - **Core CS**: Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks
 - **Frontend**: HTML, CSS, Tailwind, EJS, React.js
-- **Backend**: Node.js, Express.js, MongoDB ,Next.js , Springboot(learning)
+- **Backend**: Node.js, Express.js, MongoDB ,Next.js ,FastApi Springboot(learning)
 - **Tools**: Git, GitHub, Postman, VS Code
 - **Currently Learning**:Java Spring Boot
 
