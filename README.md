@@ -31,6 +31,9 @@
 3. **Social Media Platform**  
    🔗 [Live Site](https://social-media-plateform-jd2n.onrender.com/)
 
+4. **SmartEval**  
+   🔗 [Live Site](smarteval-1.onrender.com/)
+
 ---
 
 ## 📬 Let's Connect!
