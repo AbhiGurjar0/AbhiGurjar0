@@ -32,7 +32,7 @@
    🔗 [Live Site](https://social-media-plateform-jd2n.onrender.com/)
 
 4. **SmartEval**  
-   🔗 [Live Site](smarteval-1.onrender.com/)
+   🔗 [Live Site](https://smarteval-1.onrender.com/)
 
 ---
 
