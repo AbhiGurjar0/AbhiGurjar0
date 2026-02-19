@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Abhishek Gurjar (@AbhiGurjar0)
-PortFolio -: https://portfolio-yz2q.onrender.com
+**PortFolio** : https://portfolio-yz2q.onrender.com
 
 ## 🚀 About Me
 
@@ -13,10 +13,10 @@ PortFolio -: https://portfolio-yz2q.onrender.com
 
 ## 💻 Tech Stack
 
-- **Languages**: JavaScript, C++, Java ,Python
+- **Languages**: JavaScript, C++, Java ,Python ,TypeScript
 - **Core CS**: Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks
 - **Frontend**: HTML, CSS, Tailwind, EJS, React.js
-- **Backend**: Node.js, Express.js, MongoDB ,Next.js ,FastApi Springboot(learning)
+- **Backend**: Node.js, Express.js, MongoDB ,Next.js ,FastApi 
 - **Tools**: Git, GitHub, Postman, VS Code
 
 ---
