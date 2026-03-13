@@ -12,51 +12,12 @@
 ---
 ## 💻 Tech Stack
 
-### Languages
-- JavaScript
-- TypeScript
-- Python
-- C++
-- Java
-
-### Core Computer Science
-- Data Structures & Algorithms
-- Operating Systems
-- DBMS
-- Computer Networks
-
-### Frontend Development
-- HTML
-- CSS
-- Tailwind CSS
-- React.js
-- React Flow
-- GSAP
-- EJS
-
-### Backend Development
-- Node.js
-- Express.js
-- FastAPI
-- Next.js
-- WebSockets
-- WebRTC
-- MongoDB
-
-### AI / LLM Development
-- RAG (Retrieval Augmented Generation)
-- AI Agents
-- LangChain
-- LangGraph
-- CrewAI
-- Vector Databases
-
-### Developer Tools
-- Git
-- GitHub
-- Postman
-- VS Code
-- GitLab
+- **Languages**: JavaScript, TypeScript, Python, C++, Java  
+- **Core CS**: Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks  
+- **Frontend**: HTML, CSS, Tailwind CSS, EJS, React.js, React Flow, GSAP  
+- **Backend**: Node.js, Express.js, FastAPI, Next.js, MongoDB, WebSockets, WebRTC  
+- **AI**: RAG (Retrieval Augmented Generation), AI Agents, Tool calling ,LangChain, LangGraph, CrewAI, Vector Databases  
+- **Tools**: Git, GitHub, Postman, VS Code , GitLab
 
 ---
 ## 📈 Projects
