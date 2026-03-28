@@ -25,13 +25,10 @@
 1. **Jewellery E-commerce Website**  
    🔗 [Live Site](https://e-commerce-wk55.onrender.com/)
 
-2. **Food Delivery Website**  
-   🔗 [Live Site](https://fooddie.onrender.com/)
-
-3. **Social Media Platform**  
+2. **Social Media Platform**  
    🔗 [Live Site](https://social-media-plateform-jd2n.onrender.com/)
 
-4. **SmartEval**  
+3. **SmartEval**  
    🔗 [Live Site](https://smarteval-1.onrender.com/)
 
 ---
