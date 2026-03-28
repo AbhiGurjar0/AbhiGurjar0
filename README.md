@@ -1,18 +1,18 @@
 # 👋 Hi there, I'm Abhishek Gurjar (@AbhiGurjar0)
-**PortFolio** : https://portfolio-yz2q.onrender.com
+
+**Portfolio** : https://portfolio-yz2q.onrender.com
 
 ## 🚀 About Me
 
 - 🎓 I'm currently a final-year B.Tech student.
 - 👨‍💻 Passionate about solving real-world problems using tech.
-- 🔍 Actively learning **Backend Development** (Next.js,Springboot).
-- ⚙️ Exploring **Java Full Stack** for future MNC opportunities.
+- 🔍 Actively learning **Backend Development** (Next.js,FastApi).
 
 
 ---
 ## 💻 Tech Stack
 
-- **Languages**: JavaScript, TypeScript, Python, C++, Java  
+- **Languages**: JavaScript, TypeScript, Python, C,  C++, Java  
 - **Core CS**: Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks  
 - **Frontend**: HTML, CSS, Tailwind CSS, EJS, React.js, React Flow, GSAP  
 - **Backend**: Node.js, Express.js, FastAPI, Next.js, MongoDB, WebSockets, WebRTC  
